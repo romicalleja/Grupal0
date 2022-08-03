@@ -34,3 +34,6 @@ video {
 p{
     border: 3px solid black
 }
+p#gon{
+    color: chartreuse;
+}
