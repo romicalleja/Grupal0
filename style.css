@@ -28,3 +28,6 @@ video {
     position: relative;
     
 }
+p{
+    border: 3px solid black
+}
