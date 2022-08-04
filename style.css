@@ -40,3 +40,8 @@ p#gon{
 p#romi{
     color: pink;
 }
+p#gas{
+    color:#00FBFF;
+    font-family: 'Calibri';
+    text-shadow: 1px 1px 10px  #008789;
+}
